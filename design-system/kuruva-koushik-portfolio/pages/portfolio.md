@@ -27,6 +27,6 @@ This page-specific direction combines the `Brutalism` portfolio match from UI/UX
 
 - Keep `assets/images/profile.jpg` as the real portrait slot; show its typographic placeholder until a supplied photo loads.
 - Treat project art as illustration. Never present it as a project screenshot or invent project statistics.
-- Keep TaskFlow and Calculator repository links absent until verified URLs are supplied.
+- Keep the Calculator repository link absent until a verified URL is supplied.
 - Preserve visible keyboard focus, explicit form labels, 44px minimum interactive targets, and a mobile menu with `aria-expanded` state.
 - Stack the hero and feature project at tablet widths; collapse all profile links into one column on phones; prevent horizontal overflow.

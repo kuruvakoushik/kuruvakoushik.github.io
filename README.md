@@ -24,7 +24,7 @@ The contact section links directly to LinkedIn and GitHub, so visitors can reach
 
 ## Project links and claims
 
-SpendSense links to the repository supplied in the portfolio brief. TaskFlow and Calculator have no repository or demo URLs here because none were provided. Their cards only use the brief's descriptions.
+SpendSense links to the supplied repository. The Calculator card uses only the supplied description and has no repository or demo URL because none was provided.
 
 ## Structure
 
