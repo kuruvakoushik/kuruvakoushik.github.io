@@ -1,0 +1,9 @@
+{
+  "name": "kuruva-koushik-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static portfolio website for Kuruva Koushik",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  }
+}
